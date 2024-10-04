@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Leadership mantras, Meditation, Aurelia**
 
-- 💬 Ask me about **Software Craftsmanship, Mentoring, Software Engineering**
-
-- 📫 How to reach me **karthik@karthikmuthu.com**
+- 💬 Ask me about **Software Craftsmanship, Mentoring, Software Engineering, Agile Development**
 
 - ⚡ Fun fact **Love Music**
 
