@@ -14,14 +14,14 @@ I love using, building and promoting software that solves problems. I have been 
 - **Problem Solving:** Experience solving challenging technical and functional problems, with a customer-driven focus on building usable products.
 - **Open Source:** Love Open Source and contributing to it.
 
-- 🌱 I’m currently learning **Leadership mantras, Meditation, Aurelia**
+- 🌱 I’m currently learning **Generative AI, Vibe Coding and Productivity**
 
 - 💬 Ask me about **Software Craftsmanship, Mentoring, Software Engineering, Agile Development, .NET, Ruby on Rails, Java, Spring Boot, Mobile Development**
 
 - ⚡ Fun fact **Love Music and I'm an Apple Adorer**
 
 <p align="center">
-<a href="https://twitter.com/karthik_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karthik_s" height="30" width="30" /></a>
+<a href="https://x.com/karthik_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karthik_s" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/karthikliveshere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karthikliveshere" height="30" width="30" /></a>
 <a href="https://github.com/kmuthupa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="kmuthupa" height="30" width="30" /></a>
 </p>
