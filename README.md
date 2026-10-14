@@ -22,6 +22,7 @@ I love using, building and promoting software that solves problems. I have been 
 
 <p align="center">
 <a href="https://x.com/karthik_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karthik_s" height="30" width="30" /></a>
+<a href="https://karthik-muthupalaniappan.lovable.app" target="blank"></a>
 <a href="https://linkedin.com/in/karthikliveshere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karthikliveshere" height="30" width="30" /></a>
 <a href="https://github.com/kmuthupa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="kmuthupa" height="30" width="30" /></a>
 </p>
